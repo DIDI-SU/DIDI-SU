@@ -19,4 +19,4 @@ JP/ENG/KR
 
 ### 💻 STUDY LOG 📚
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://hellojisoo.notion.site/7b80a573599b48dbbc58dc5752966a81?v=b7e6e35939cc40be93a5762b02346b71) [![Blog](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white)](https://study4memain.gatsbyjs.io/about/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://hellojisoo.notion.site/84cfca016b7d45a09496818ce1024f84) [![Blog](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white)](https://didiinthehouse.gatsbyjs.io/blog)
